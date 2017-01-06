@@ -1,4 +1,4 @@
 # Dash22
 Rideshare app 
 
-This is map components of the ride share app. 
+This is where the passenger will input information regarding 'FirstName' 'LastName' 'Email' 'PhoneNumber' etc. 
