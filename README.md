@@ -1,4 +1,4 @@
 # Dash22
 Rideshare app 
 
-This is where the passenger will input information regarding 'FirstName' 'LastName' 'Email' 'PhoneNumber' etc. 
+This app is designed for people to commute short-term to grocery stores, etc. 
